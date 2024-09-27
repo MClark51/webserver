@@ -1,0 +1,4 @@
+GET /index.html 200
+GET /testfile.html 200
+GET /declaration.txt 200
+GET /testfile.htm 404
